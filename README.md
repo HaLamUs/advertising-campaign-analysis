@@ -9,7 +9,7 @@ TS. LÊ ĐÌNH DUY
 ## Thành viên: Hà Lam - CH1701013
 
 ## Kiến trúc tổng quát: 
-![Screenshot](https://github.com/HaLamUs/ComputerVisionTheme/blob/master/ScreenShot/vgg_mug.png)
+![Screenshot](https://github.com/HaLamUs/advertising-campaign-analysis/blob/master/Screenshot/architect.png)
 
 ### Cài đặt:
 Ngôn ngữ:
@@ -19,5 +19,3 @@ Ngôn ngữ:
 - pip install kafka-python
 - pip install pymongo
 - pip install dash
-
-https://github.com/HaLamUs/advertising-campaign-analysis/blob/master/architect.png

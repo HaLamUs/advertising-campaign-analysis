@@ -19,3 +19,9 @@ Ngôn ngữ:
 - pip install kafka-python
 - pip install pymongo
 - pip install dash
+
+---
+## Author
+
+This repo was developed by [@lamha](https://github.com/HaLamUs). 
+Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/lamhacs). 
